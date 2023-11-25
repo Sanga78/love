@@ -13,7 +13,10 @@ function showImage(){
 		imageIndex = 0;
 	}
 }
-
+function playAudio() {
+	var audio = new Audio('music/music.mp3');
+	audio.play();
+}
 function play(){
 	if(t == 0){
 		myImage.setAttribute("src", "");
