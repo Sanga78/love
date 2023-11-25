@@ -1,7 +1,7 @@
 
 let i = 0;
 let text1 = "Hey dear ❤️❤️.";
-let text2 = "I promise I'm gonna love you, I'm gonna be there for you I'm gonna show up for you I'm gonna be the shoulder for you to cry on,I'm gonna be your voice of reason,If you ever doubt yourself I'm gonna be here to make sure you feel loved,that you are appreciated ,that you will always hold a part of my heart"
+let text2 = "I promise I will always love you💕, support you,be there for you 🥰🥰, be a shoulder for you to lean on😌 ,I'm gonna be your voice of reason and be here for you, if you ever doubt anything or yourself😍. You will always have a piece of my heart and and I will make sure you feel loved ans appreciated💘❤️"
 let speed = 50;
 
 function typeWriter(text, para){
