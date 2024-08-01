@@ -129,7 +129,19 @@ body{
 	height: 300px;
 	width: auto;
 }
-
+.image img{
+    animation: fade-in-left 1s ease-out forwards;
+}
+@keyframes fade-in-left {
+    from {
+      opacity: 0;
+      transform: translateX(-100px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
 #Txt{
 	display: inline-block;
 	font-size: 17px;
