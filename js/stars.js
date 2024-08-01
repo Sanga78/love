@@ -12,7 +12,6 @@ window.addEventListener("resize", function() {
     init()
 });
 
-/*
 const mouse = {
     x: innerWidth / 2,
     y: innerHeight / 2
@@ -24,7 +23,7 @@ addEventListener('mousemove', event => {
     mouse.x = event.clientX
     mouse.y = event.clientY
 })
-*/
+
 
 // Objects
 function Star(x, y, radius, color) {
@@ -139,8 +138,8 @@ function creatMountainRange(mountainAmount, height, color){
 
 // Implementation
 const backgroundGradient = c.createLinearGradient(0, 0, canvas.width, canvas.height)
-backgroundGradient.addColorStop(0, '#171e26')
-backgroundGradient.addColorStop(1, '#3f586b')
+backgroundGradient.addColorStop(0, 'blue')
+backgroundGradient.addColorStop(1, 'purple')
 
 let stars
 let miniStars

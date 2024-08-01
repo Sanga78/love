@@ -1,7 +1,8 @@
 
 let i = 0;
-let text1 = "Hey dear ❤️❤️.";
-let text2 = "I promise I will always love you💕, support you,be there for you 🥰🥰, be a shoulder for you to lean on😌 ,I'm gonna be your voice of reason and be here for you, if you ever doubt anything or yourself😍. You will always have a piece of my heart and and I will make sure you feel loved ans appreciated💘❤️"
+let text1 = "Happy Girlfriends Day to the most amazing girl in my life@Becky.";
+let text2 = "I love you so so much baby❤️❤️."
+
 let speed = 50;
 
 function typeWriter(text, para){

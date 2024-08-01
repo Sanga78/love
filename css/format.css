@@ -1,3 +1,6 @@
+body{
+	overflow: hidden;
+}
 #typeDiv {
 	position: absolute;
 	top: 45%;
@@ -123,7 +126,7 @@
 	border-radius: 3%;
 }
 .image{
-	height: 350px;
+	height: 300px;
 	width: auto;
 }
 
